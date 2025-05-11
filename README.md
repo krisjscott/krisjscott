@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **krishkumarr345@gmail.com**
 
-- ⚡ Fun fact **I think I can**
+- ⚡ Fun fact **I can eat a lot and still stay skinny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
