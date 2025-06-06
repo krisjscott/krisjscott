@@ -1,5 +1,5 @@
 # 💫 About Me:
-🛠️ I’m currently working on building fun and functional Python projects using Turtle and exploring AI concepts.<br>🤝 I’m looking to collaborate on open-source AI/ML or DevOps tools and projects.<br>🧠 I’m looking for help with understanding large language models (LLMs) and real-world AI integration.<br>🌱 I’m currently learning about LLMs, AI/ML, DevOps, and Python for Data Science.<br>💬 Ask me about anything related to Python, GitHub, or engineering side-projects!<br>⚡ Fun fact: I once drew an Among Us crewmate using just Turtle graphics in Python 😄<br><br>
+🛠️ I’m currently working on building an AI bot using NLP, while being it's supervisor.<br>🤝 I’m looking to collaborate on open-source AI/ML or DevOps tools and projects.<br>🧠 I’m looking for help with understanding large language models (LLMs) and real-world AI integration.<br>🌱 I’m currently learning about LLMs, AI/ML, DevOps, and Python for Data Science.<br>💬 Ask me about anything related to Python, GitHub, or engineering side-projects!<br>⚡ Fun fact: I once drew an Among Us crewmate using just Turtle graphics in Python 😄<br><br>
 
 
 ## 🌐 Socials:
