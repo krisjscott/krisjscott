@@ -1,7 +1,5 @@
 # 💫 About Me:
-🛠️ I’m currently working on building an AI bot using NLP, while being it's supervisor.<br>🤝 I’m looking to collaborate on open-source AI/ML or DevOps tools and projects.<br>🧠 I’m looking for help with understanding large language models (LLMs) and real-world AI integration.<br>🌱 I’m currently learning about LLMs, AI/ML, DevOps, and Python for Data Science.<br>💬 Ask me about anything related to Python, GitHub, or engineering side-projects!<br>⚡ Fun fact: I once drew an Among Us crewmate using just Turtle graphics in Python 😄<br><br>
-
-
+Hi I am krish, indulged in learning about artifical intelligence, Neural networks, and topics related to making a computer alive. I am a engineering student in MIT ADT pursuing Computer science, and building real-time projects. 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/krisj._/)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishkumar06)  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:krishkumarr345@gmail.com)
 
