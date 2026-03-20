@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey,%20I'm%20Krish%20👋&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=CS%20Engineer%20•%20AI%20Researcher%20•%20Builder&descAlignY=58&descSize=18&descColor=a78bfa&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey,%20I'm%20Krish%20👋&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=CS%20Engineer%20•%20Backend%20Developer%20•%20Builder&descAlignY=58&descSize=18&descColor=a78bfa&animation=fadeIn" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=600&lines=Teaching+machines+to+think+🧠;Neural+Networks+%7C+Deep+Learning;Building+real-time+AI+projects;Engineering+Student+%40+MIT+ADT;Turning+coffee+into+code+☕)](https://git.io/typing-svg)
 
@@ -104,13 +104,13 @@ class Krish:
 
 ---
 
-## 🐍 Contribution Snake
+## 🌍 Contribution Globe
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/krisjscott/krisjscott/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/krisjscott/krisjscott/output/github-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/krisjscott/krisjscott/output/github-snake.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/krisjscott/krisjscott/main/profile-3d-contrib/profile-night-rainbow.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/krisjscott/krisjscott/main/profile-3d-contrib/profile-green-animate.svg"/>
+  <img alt="3d-contrib-globe" src="https://raw.githubusercontent.com/krisjscott/krisjscott/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
 </picture>
 </div>
 
