@@ -50,12 +50,12 @@ class Krish:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=krisjscott&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&show_icons=true&rank_icon=github&card_width=470" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krisjscott&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&card_width=320" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=krisjscott&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=percentile" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krisjscott&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="170"/>
 
 <br/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=krisjscott&theme=tokyonight&hide_border=true&card_width=800" width="70%"/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=krisjscott&theme=tokyonight&hide_border=true" width="68%"/>
 
 </div>
 
@@ -65,7 +65,7 @@ class Krish:
 
 <div align="center">
 
-<img src="https://github-contributor-stats.vercel.app/api?username=krisjscott&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" width="70%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=krisjscott&theme=tokyo-night&hide_border=true&area=true&area_color=7c3aed" width="95%"/>
 
 </div>
 
