@@ -14,8 +14,8 @@
 class Krish:
     name        = "Krish Kumar"
     university  = "MIT ADT University — Computer Science"
-    focus       = ["Artificial Intelligence", "Neural Networks", "Deep Learning"]
-    currently   = "Building real-time AI projects & exploring LLM internals"
+    focus       = "Artificial Intelligence", "Backend Developing", "System Design"
+    currently   = "Building real-world systems and services. Also training machines "
     goal        = "Make computers think, feel, and reason like humans"
     fun_fact    = "I believe every dataset has a story — I just help it speak 🌌"
 ```
