@@ -152,7 +152,7 @@ Coded an Among Us crewmate from scratch using Python's Turtle module. Geometry, 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0f?style=for-the-badge&logo=linkedin&logoColor=00f5d4)](https://www.linkedin.com/in/krishkumar06)
 [![Instagram](https://img.shields.io/badge/Instagram-0a0a0f?style=for-the-badge&logo=instagram&logoColor=00f5d4)](https://www.instagram.com/krisj._/)
-[![Gmail](https://img.shields.io/badge/Email-0a0a0f?style=for-the-badge&logo=gmail&logoColor=00f5d4)](mailto:krishkumarr345@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-0a0a0f?style=for-the-badge&logo=gmail&logoColor=00f5d4)](mailto:krishkumar6566@gmail.com)
 
 <br/>
 
@@ -173,7 +173,5 @@ Coded an Among Us crewmate from scratch using Python's Turtle module. Geometry, 
 </sub>
 
 <br/><br/>
-
-[![Profile Views](https://visitcount.itsvg.in/api?id=krisjscott&icon=3&color=0)](https://visitcount.itsvg.in)
 
 </div>
