@@ -122,13 +122,7 @@ Coded an Among Us crewmate from scratch using Python's Turtle module. Geometry, 
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=krisjscott&theme=matrix&no-frame=true&no-bg=true&column=6&margin-w=10&margin-h=8" width="95%"/>
 
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=krisjscott&hide_border=true&background=0d1117&ring=00f5d4&fire=00f5d4&currStreakLabel=00f5d4&sideLabels=c9d1d9&sideNums=ffffff&dates=888888&currStreakNum=ffffff" width="65%"/>
-
-<br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=krisjscott&theme=react-dark&hide_border=true&bg_color=0d1117&color=00f5d4&line=00f5d4&point=ffffff&area=true" width="95%"/>
 
