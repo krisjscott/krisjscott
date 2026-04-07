@@ -93,6 +93,7 @@ Coded an Among Us crewmate from scratch using Python's Turtle module. Geometry, 
 **— Intelligence Layer —**
 
 ![Python](https://img.shields.io/badge/Python-0a0a0f?style=flat-square&logo=python&logoColor=00f5d4)
+![Java](https://img.shields.io/badge/Java-0a0a0f?style=flat-square&logo=openjdk&logoColor=00f5d4)
 ![PyTorch](https://img.shields.io/badge/PyTorch-0a0a0f?style=flat-square&logo=pytorch&logoColor=EE4C2C)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-0a0a0f?style=flat-square&logo=tensorflow&logoColor=FF6F00)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-0a0a0f?style=flat-square&logo=huggingface&logoColor=FFD21E)
@@ -122,17 +123,17 @@ Coded an Among Us crewmate from scratch using Python's Turtle module. Geometry, 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=krisjscott&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=0a0a0f&title_color=00f5d4&icon_color=00f5d4&text_color=ffffff&rank_icon=percentile" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=krisjscott&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=0d1117&title_color=00f5d4&icon_color=00f5d4&text_color=c9d1d9&rank_icon=percentile" height="165"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krisjscott&hide_border=true&layout=compact&langs_count=6&bg_color=0a0a0f&title_color=00f5d4&text_color=ffffff" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krisjscott&hide_border=true&layout=compact&langs_count=6&bg_color=0d1117&title_color=00f5d4&text_color=c9d1d9" height="165"/>
 
 <br/><br/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=krisjscott&theme=dark&hide_border=true&background=0a0a0f&ring=00f5d4&fire=00f5d4&currStreakLabel=00f5d4" width="65%"/>
+<img src="https://streak-stats.demolab.com?user=krisjscott&hide_border=true&background=0d1117&ring=00f5d4&fire=00f5d4&currStreakLabel=00f5d4&sideLabels=c9d1d9&sideNums=ffffff&dates=888888&currStreakNum=ffffff" width="65%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=krisjscott&theme=react-dark&hide_border=true&bg_color=0a0a0f&color=00f5d4&line=00f5d4&point=ffffff&area=true&area_color=00f5d4" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=krisjscott&theme=react-dark&hide_border=true&bg_color=0d1117&color=00f5d4&line=00f5d4&point=ffffff&area=true" width="95%"/>
 
 </div>
 
