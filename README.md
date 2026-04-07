@@ -1,125 +1,187 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey,%20I'm%20Krish%20👋&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=CS%20Engineer%20•%20Backend%20Developer%20•%20Builder&descAlignY=58&descSize=18&descColor=a78bfa&animation=fadeIn" width="100%"/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=600&lines=Teaching+machines+to+think+🧠;Neural+Networks+%7C+Deep+Learning;Building+real-time+AI+projects;Engineering+Student+%40+MIT+ADT;Turning+coffee+into+code+☕)](https://git.io/typing-svg)
-
-</div>
-
----
-
-## 🧬 The Dev behind the commits
-
-```python
-class Krish:
-    name        = "Krish Kumar"
-    university  = "MIT ADT University — Computer Science"
-    focus       = "Artificial Intelligence", "Backend Developing", "System Design"
-    currently   = "Building real-world systems and services. Also training machines "
-    goal        = "Make computers think, feel, and reason like humans"
-    fun_fact    = "I believe every dataset has a story — I just help it speak 🌌"
-```
-
----
-
-## 🚀 Tech Arsenal
-
-### 🧠 AI / ML
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-
-### ⚙️ Core Dev
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### 🎨 Creative Tools
-![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
-![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
-
----
-
-## 📊 GitHub at a Glance
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=krisjscott&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=percentile" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krisjscott&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="170"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0a0a0f,40:0d1117,100:0a0a0f&height=180&section=header&text=KRISH.KUMAR&fontSize=58&fontColor=00f5d4&fontAlignY=45&desc=cs+engineer+/+ai+builder+/+machine+whisperer&descAlignY=68&descSize=14&descColor=ffffff60&stroke=00f5d4&strokeWidth=1.5" width="100%"/>
 
 <br/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=krisjscott&theme=tokyonight&hide_border=true" width="68%"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=18&pause=900&color=00F5D4&center=true&vCenter=true&random=false&width=680&lines=→+training+machines+to+understand+the+world;→+building+JARVIS+one+commit+at+a+time+🤖;→+CS+%40+MIT+ADT+University,+Pune;→+turning+raw+data+into+decisions;→+if+it+thinks,+I+probably+built+it)](https://git.io/typing-svg)
 
 </div>
 
----
-
-## 🔥 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=krisjscott&theme=tokyo-night&hide_border=true&area=true&area_color=7c3aed" width="95%"/>
-
-</div>
+<br/>
 
 ---
 
-## 🌌 Currently Exploring
+## `$ whoami`
 
-```
-📌  Large Language Model Internals & Fine-tuning
-📌  Transformer Architecture from scratch
-📌  Real-time AI systems with Java + Python hybrid backends
-📌  Computer Vision pipelines (PyTorch)
+```python
+{
+  "name"       : "Krish Kumar",
+  "alias"      : "krisjscott",
+  "location"   : "Pune, Maharashtra 🇮🇳",
+  "university" : "MIT ADT University — B.E. Computer Science",
+  "domains"    : ["Artificial Intelligence", "Backend Systems", "System Design"],
+  "building"   : "JARVIS-level desktop AI with voice, vision & reasoning",
+  "obsession"  : "Making computers that understand — not just compute",
+  "side_quests": ["LLM internals", "Transformer architecture from scratch", "CV pipelines"]
+}
 ```
 
+<br/>
+
 ---
 
-## 🌐 Find Me Online
+## `$ ls ./projects` — things I actually shipped
+
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 [Jarvis Autobot](https://github.com/krisjscott/jarvis_autobot)
+> *"I'm not saying I'm JARVIS… but you've just activated me."*
+
+A desktop AI assistant powered by GPT-2 & BERT with a custom Tkinter GUI, animated GIF interface, Speech-to-Text/TTS, face recognition, and multithreaded real-time responses.
+
+`Python` `Transformers` `Tkinter` `SpeechRecognition` `PyTorch`
+
+</td>
+<td width="50%" valign="top">
+
+### 🏠 [Hackathon 2.0](https://github.com/krisjscott/Hackathon-2.0)
+> *Built under pressure. Shipped anyway.*
+
+Full-stack property search platform with a TypeScript frontend, backend API integration, and live search experience — built during a hackathon.
+
+`TypeScript` `Full-Stack` `REST APIs`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ✍️ [Handwritten Digit Detection](https://github.com/krisjscott/handwritten-detection)
+> *Teaching machines to read human handwriting.*
+
+Internship ML project — a digit recognition model that takes handwritten input and predicts the number using a trained neural network.
+
+`Python` `scikit-learn` `NumPy` `ML`
+
+</td>
+<td width="50%" valign="top">
+
+### 🎨 [Turtle Drawing](https://github.com/krisjscott/Turtle-drawing)
+> *Because even engineers have an inner artist.*
+
+Coded an Among Us crewmate from scratch using Python's Turtle module. Geometry, color, and patience — no frameworks allowed.
+
+`Python` `Turtle Graphics` `Creative Coding`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+## `$ cat tech_stack.json`
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/@krisj._-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/krisj._/)
-[![LinkedIn](https://img.shields.io/badge/Krish%20Kumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishkumar06)
-[![Gmail](https://img.shields.io/badge/krishkumarr345@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krishkumarr345@gmail.com)
+**— Intelligence Layer —**
+
+![Python](https://img.shields.io/badge/Python-0a0a0f?style=flat-square&logo=python&logoColor=00f5d4)
+![PyTorch](https://img.shields.io/badge/PyTorch-0a0a0f?style=flat-square&logo=pytorch&logoColor=EE4C2C)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0a0a0f?style=flat-square&logo=tensorflow&logoColor=FF6F00)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-0a0a0f?style=flat-square&logo=huggingface&logoColor=FFD21E)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0a0a0f?style=flat-square&logo=scikit-learn&logoColor=F7931E)
+![NumPy](https://img.shields.io/badge/NumPy-0a0a0f?style=flat-square&logo=numpy&logoColor=4dabcf)
+![Pandas](https://img.shields.io/badge/Pandas-0a0a0f?style=flat-square&logo=pandas&logoColor=150458)
+
+**— Systems Layer —**
+
+![Java](https://img.shields.io/badge/Java-0a0a0f?style=flat-square&logo=openjdk&logoColor=ED8B00)
+![MySQL](https://img.shields.io/badge/MySQL-0a0a0f?style=flat-square&logo=mysql&logoColor=4479A1)
+![MongoDB](https://img.shields.io/badge/MongoDB-0a0a0f?style=flat-square&logo=mongodb&logoColor=4ea94b)
+![Git](https://img.shields.io/badge/Git-0a0a0f?style=flat-square&logo=git&logoColor=F05033)
+
+**— Creative Layer —**
+
+![Adobe After Effects](https://img.shields.io/badge/After_Effects-0a0a0f?style=flat-square&logo=adobeaftereffects&logoColor=9999FF)
+![Adobe](https://img.shields.io/badge/Adobe_Suite-0a0a0f?style=flat-square&logo=adobe&logoColor=FF0000)
 
 </div>
 
+<br/>
+
 ---
 
-## 💭 Dev Quote of the Day
+## `$ git log --oneline --graph` — activity
 
 <div align="center">
 
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=krisjscott&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=0a0a0f&title_color=00f5d4&icon_color=00f5d4&text_color=ffffff&rank_icon=percentile" height="165"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krisjscott&hide_border=true&layout=compact&langs_count=6&bg_color=0a0a0f&title_color=00f5d4&text_color=ffffff" height="165"/>
+
+<br/><br/>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=krisjscott&theme=dark&hide_border=true&background=0a0a0f&ring=00f5d4&fire=00f5d4&currStreakLabel=00f5d4" width="65%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=krisjscott&theme=react-dark&hide_border=true&bg_color=0a0a0f&color=00f5d4&line=00f5d4&point=ffffff&area=true&area_color=00f5d4" width="95%"/>
 
 </div>
 
+<br/>
+
 ---
 
-## 🌍 Contribution Globe
+## `$ tail -f /var/log/krish/current_research.log`
+
+```
+[INFO]  Dissecting LLM internals — attention heads, KV cache, positional encodings
+[INFO]  Building Transformer architecture from scratch (no cheating with HuggingFace)
+[INFO]  Experimenting with Java + Python hybrid real-time AI backends
+[INFO]  Computer Vision pipelines: object detection + segmentation with PyTorch
+[NEXT]  Fine-tuning smaller LLMs for domain-specific tasks
+```
+
+<br/>
+
+---
+
+## `$ ping krish`
 
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/krisjscott/krisjscott/main/profile-3d-contrib/profile-night-rainbow.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/krisjscott/krisjscott/main/profile-3d-contrib/profile-green-animate.svg"/>
-  <img alt="3d-contrib-globe" src="https://raw.githubusercontent.com/krisjscott/krisjscott/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
-</picture>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0f?style=for-the-badge&logo=linkedin&logoColor=00f5d4)](https://www.linkedin.com/in/krishkumar06)
+[![Instagram](https://img.shields.io/badge/Instagram-0a0a0f?style=for-the-badge&logo=instagram&logoColor=00f5d4)](https://www.instagram.com/krisj._/)
+[![Gmail](https://img.shields.io/badge/Email-0a0a0f?style=for-the-badge&logo=gmail&logoColor=00f5d4)](mailto:krishkumarr345@gmail.com)
+
+<br/>
+
+*response time: probably after this training run finishes* ☕
+
 </div>
 
+<br/>
+
 ---
 
 <div align="center">
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=krisjscott&icon=6&color=9)](https://visitcount.itsvg.in)
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0a0a0f,50:0d1117,100:0a0a0f&height=80&section=footer&text=&stroke=00f5d441&strokeWidth=1" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+<sub>
+  <code>every dataset has a story — I just help it speak</code>
+</sub>
+
+<br/><br/>
+
+[![Profile Views](https://visitcount.itsvg.in/api?id=krisjscott&icon=3&color=0)](https://visitcount.itsvg.in)
 
 </div>
