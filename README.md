@@ -17,12 +17,12 @@
 ```python
 {
   "name"       : "Krish Kumar",
-  "alias"      : "krisjscott",
+  "gamerTag"      : "krisjscott",
   "location"   : "Pune, Maharashtra 🇮🇳",
   "university" : "MIT ADT University — B.E. Computer Science",
   "domains"    : ["Artificial Intelligence", "Backend Systems", "System Design"],
-  "building"   : "JARVIS-level desktop AI with voice, vision & reasoning",
-  "obsession"  : "Making computers that understand — not just compute",
+  "building"   : "Microservices for e-commerce system",
+  "obsession"  : "Backend that showcase ART",
   "side_quests": ["LLM internals", "Transformer architecture from scratch", "CV pipelines"]
 }
 ```
@@ -103,7 +103,6 @@ Coded an Among Us crewmate from scratch using Python's Turtle module. Geometry, 
 
 **— Systems Layer —**
 
-![Java](https://img.shields.io/badge/Java-0a0a0f?style=flat-square&logo=openjdk&logoColor=ED8B00)
 ![MySQL](https://img.shields.io/badge/MySQL-0a0a0f?style=flat-square&logo=mysql&logoColor=4479A1)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0a0a0f?style=flat-square&logo=mongodb&logoColor=4ea94b)
 ![Git](https://img.shields.io/badge/Git-0a0a0f?style=flat-square&logo=git&logoColor=F05033)
@@ -123,9 +122,7 @@ Coded an Among Us crewmate from scratch using Python's Turtle module. Geometry, 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=krisjscott&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=0d1117&title_color=00f5d4&icon_color=00f5d4&text_color=c9d1d9&rank_icon=percentile" height="165"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krisjscott&hide_border=true&layout=compact&langs_count=6&bg_color=0d1117&title_color=00f5d4&text_color=c9d1d9" height="165"/>
+<img src="https://github-profile-trophy.vercel.app/?username=krisjscott&theme=matrix&no-frame=true&no-bg=true&column=6&margin-w=10&margin-h=8" width="95%"/>
 
 <br/><br/>
 
