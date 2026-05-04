@@ -136,18 +136,15 @@ krish = {
 
 <br/>
 
-## stats
+## activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=krisjscott&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=8b949e&include_all_commits=true&count_private=true&hide_rank=true" height="140"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krisjscott&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=8b949e&layout=compact&langs_count=6" height="140"/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=krisjscott&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff)](https://git.io/streak-stats)
 
-<br/><br/>
+
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=krisjscott&theme=github-compact&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&area_color=58A6FF" width="92%"/>
-
 </div>
 
 <br/>
@@ -174,9 +171,9 @@ krish = {
 ## experience
 
 ```
-Tiesverse Foundation   →   Software Developer Intern        [ Apr 2026 – Present ]
+Tiesverse Foundation   →   Backend Developer Intern        [ Apr 2026 – Present ]
 Codec Technologies     →   Machine Learning Intern          [ Jun 2025 – Jul 2025 ]
-Denner.in              →   Junior Backend Developer         [ Sep 2024 – Oct 2024 ]
+Denner.in              →   Junior Backend Developer Intern         [ Sep 2024 – Oct 2024 ]
 ```
 
 <br/>
