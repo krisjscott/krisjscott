@@ -22,7 +22,7 @@
 krish = {
     "focus"      : ["Backend Development", "System Design", "AI Engineering"],
     "languages"  : ["Python", "Java", "TypeScript", "JavaScript"],
-    "frameworks" : ["Flask", "FastAPI", "Express.js", "Node.js"],
+    "frameworks" : ["Flask", "FastAPI", "SpringBoot", "Node.js"],
     "now"        : "Building microservices & exploring distributed systems",
     "location"   : "Pune, India 🇮🇳"
 }
