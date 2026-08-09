@@ -61,6 +61,14 @@ Co-author — *EEG-based Motor Imagery BCI Classification*, IEEE (2025)
 
 ---
 
+## GitHub Contributions
+
+<div align="center">
+
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="Krish Kumar's 3D GitHub contribution graph"/>
+
+</div>
+
 ## What I'm Looking For
 
 Remote or Bangalore-based **internship with PPO potential** at a product company or startup.  
