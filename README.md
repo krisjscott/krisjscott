@@ -1,43 +1,54 @@
 # Krish Kumar
 
-**Backend & AI Developer** · Building systems that ship, not just systems that run.
+**Backend Developer (Java / Spring Boot)** · Building systems that ship, not just systems that run.
 
-Final-year CSE (AI) student at MIT ADT University, Pune. Currently interning at **Tiesverse** (backend, Node.js/PostgreSQL). I write production code, debug with logs and source, and build things beyond tutorials.
+Final-year CSE (AI) student at MIT ADT University, Pune. Backend intern at **.tiesverse**. I debug from logs and source, and I build things beyond tutorials.
+
+<!-- CURRENT-PROJECT:START -->
+**Currently working on:** [walletApi](https://github.com/krisjscott/walletApi) — "Removed unused packages imports" (18 Oct 2026)
+<!-- CURRENT-PROJECT:END -->
 
 ---
 
 ## What I've Built
 
-### [Ticketing-Based-APP](https://github.com/krisjscott/Ticketing-Based-APP) — LLM Ticket Triage Backend
-> Python · GPT-4o-mini · FastAPI · PostgreSQL
+### [Digital Wallet API](https://github.com/krisjscott/walletApi) — in progress
+> Java 21 · Spring Boot · JPA
 
-LLM-powered backend that auto-classifies support tickets, generates AI draft replies, and enforces 3-tier SLA tracking with Human-in-the-Loop review.  
-**Result: 80% reduction in manual triage effort.**
+Wallet service built to practice real backend concerns: idempotent money movement, optimistic locking with @Version, JWT auth, append-only ledger. HLD/LLD designed first, building milestone by milestone.
 
-### [AI-Security-Scanner](https://github.com/krisjscott/AI-security-scanner) — SQL Injection Detection CLI
-> Python · Gemini API · Regex
+### [Credit Decisioning API](https://github.com/krisjscott/credit-decisioning-service-api)
+> Java · Spring Boot · JUnit
 
-CLI tool that combines regex pre-checks with Gemini contextual scoring to detect SQL injection patterns. MD5-based incremental scanning avoids re-checking already-scanned queries.  
-**Processes 100+ queries per run. Detects 5+ injection patterns.**
+Rule-based credit decisioning service with a 27-test regression suite.
 
-### [WebServer-Threading](https://github.com/krisjscott/WebServer-Threading) — Concurrency Models Benchmark
+### [Inventory & Order Management](https://github.com/krisjscott/Inventory-System)
+> Java · Spring Boot · React · PostgreSQL · Google OAuth2
+
+Multi-item orders with transactional consistency, pessimistic stock locks and snapshot pricing.
+
+### [LLM Ticket Triage Backend](https://github.com/krisjscott/Ticketing-Based-APP)
+> Python · FastAPI · PostgreSQL · GPT-4o-mini
+
+Auto-classifies support tickets, drafts AI replies with human-in-the-loop review, tracks 3-tier SLAs. Built to cut manual triage work.
+
+### [AI Security Scanner](https://github.com/krisjscott/AI-security-scanner)
+> Python · Gemini API
+
+CLI combining regex pre-checks with LLM scoring to flag SQL-injection patterns; MD5-based incremental scanning skips unchanged queries.
+
+### [WebServer-Threading](https://github.com/krisjscott/WebServer-Threading)
 > Java · JMeter
 
-Side-by-side Java implementations of single-threaded, multi-threaded, and thread pool web servers — benchmarked under load with JMeter.  
-**Built to understand why concurrency models matter, not just how to use them.**
-
-### [Ticket-Booking](https://github.com/krisjscott/Ticket-Booking) — Java CLI with LLD
-> Java · Gradle
-
-Modular CLI ticket booking system built with Low-Level Design principles, Gradle multi-module architecture, and full service-layer separation.
+Single-threaded vs multi-threaded vs thread-pool servers, benchmarked under load with JMeter.
 
 ---
 
-## In Production
+## Experience
 
-**Tiesverse** (April 2026 – Present)
-- Eliminated N+1 query patterns across core CRUD endpoints → **20% API response time reduction**
-- Redesigned backend architecture with HLD/LLD documentation covering service integration and REST API flow
+**.tiesverse** — Backend Intern (April 2026 – Present)
+- Fixed N+1 query patterns on core CRUD endpoints, cutting API response times
+- Wrote HLD/LLD docs covering service integration and REST API flow
 - Stack: Node.js · React · PostgreSQL
 
 ---
@@ -45,12 +56,12 @@ Modular CLI ticket booking system built with Low-Level Design principles, Gradle
 ## Stack
 
 ```
-Languages     Java · Python · Rust · JavaScript · SQL
-Backend       Spring Boot · FastAPI · Flask · REST APIs · JWT Auth · SQLAlchemy ORM
-AI / LLM      GPT-4o-mini · Gemini · OpenRouter · PyTorch · TensorFlow · Scikit-learn · Hugging Face
-Databases     PostgreSQL · MongoDB · MySQL
-DevOps        Docker · AWS (EC2 / IAM / SES / EBS) · Git · Linux · Swagger
-Fundamentals  DSA (250+ problems) · System Design (HLD/LLD) · OOP · SOLID · ACID
+Languages     Java · Python · JavaScript · SQL
+Backend       Spring Boot · REST APIs · JWT Auth · FastAPI · Node.js (working knowledge)
+Data          PostgreSQL · MySQL · JPA / Hibernate
+AI / LLM      OpenAI & Gemini APIs · RAG · TensorFlow / Keras · scikit-learn · Hugging Face
+Tools         Docker · AWS basics · Git · Linux · JMeter · Swagger
+Fundamentals  DSA (250+ problems) · System Design (HLD / LLD) · OOP · SOLID · ACID
 ```
 
 ---
@@ -59,23 +70,16 @@ Fundamentals  DSA (250+ problems) · System Design (HLD/LLD) · OOP · SOLID · 
 
 Co-author — *EEG-based Motor Imagery BCI Classification*, IEEE (2025)
 
----
-
 ## GitHub Contributions
 
 <div align="center">
-
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="Krish Kumar's 3D GitHub contribution graph"/>
-
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution graph"/>
 </div>
 
 ## What I'm Looking For
 
-Remote or Bangalore-based **internship with PPO potential** at a product company or startup.  
-Preference for backend-heavy roles: APIs, systems, data infrastructure, AI tooling.  
-I want to work on problems that don't have clean answers.
-
----
+Remote or Bangalore-based **internship with PPO potential** at a product company or startup.
+Backend-heavy roles: APIs, systems, data infrastructure, AI tooling.
 
 ## Connect
 
