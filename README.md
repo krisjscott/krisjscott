@@ -5,7 +5,11 @@
 Final-year CSE (AI) student at MIT ADT University, Pune. Backend intern at **.tiesverse**. I debug from logs and source, and I build things beyond tutorials.
 
 <!-- CURRENT-PROJECT:START -->
-**Currently working on:** [walletApi](https://github.com/krisjscott/walletApi) — "Removed unused packages imports" (18 Oct 2026)
+**Currently working on:** [walletApi](https://github.com/krisjscott/walletApi)
+
+Latest public push: 26 Oct 2026, 05:38 UTC | [235c0ce](https://github.com/krisjscott/walletApi/commit/235c0ce67871dbc420577d56244b715ee8cd7a70)
+
+formatted the styling of the code and managed the turkish I problem when normalizing the mail&#46;
 <!-- CURRENT-PROJECT:END -->
 
 ---
