@@ -1,4 +1,4 @@
-```python
+
 import json
 import re
 import sys
@@ -98,4 +98,3 @@ if __name__ == "__main__":
               file=sys.stderr)
         sys.exit(1)
 
-```
