@@ -1,4 +1,4 @@
-```yaml
+
 name: Update current project
 
 on:
@@ -43,4 +43,3 @@ jobs:
           echo 'Push failed after 3 attempts; no force-push was used.' >&2
           exit 1
 
-```
