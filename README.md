@@ -7,9 +7,9 @@ Final-year CSE (AI) student at MIT ADT University, Pune. Backend intern at **.ti
 <!-- CURRENT-PROJECT:START -->
 **Currently working on:** [walletApi](https://github.com/krisjscott/walletApi)
 
-Latest public push: 26 Oct 2026, 05:38 UTC | [235c0ce](https://github.com/krisjscott/walletApi/commit/235c0ce67871dbc420577d56244b715ee8cd7a70)
+Latest public push: 29 Oct 2026, 12:03 UTC | [3b7423e](https://github.com/krisjscott/walletApi/commit/3b7423ecaba695a7023378ee3766d91d4296546b)
 
-formatted the styling of the code and managed the turkish I problem when normalizing the mail&#46;
+Fix token expiration unit&#44; preserve login password whitespace&#44; and respect injected password encoder
 <!-- CURRENT-PROJECT:END -->
 
 ---
