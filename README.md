@@ -16,10 +16,10 @@ Fix token expiration unit&#44; preserve login password whitespace&#44; and respe
 
 ## What I've Built
 
-### [Digital Wallet API](https://github.com/krisjscott/walletApi) — in progress
+### [Digital Wallet API](https://github.com/krisjscott/walletApi)
 > Java 21 · Spring Boot · JPA
 
-Wallet service built to practice real backend concerns: idempotent money movement, optimistic locking with @Version, JWT auth, append-only ledger. HLD/LLD designed first, building milestone by milestone.
+Java 21 / Spring Boot wallet service with idempotent transfers, JWT auth, an append-only ledger, and wallet row locks acquired in ID order. Designed HLD/LLD first and built milestone by milestone. 43 tests covering transfers, retries, concurrency and rollback.
 
 ### [Credit Decisioning API](https://github.com/krisjscott/credit-decisioning-service-api)
 > Java · Spring Boot · JUnit
@@ -82,9 +82,9 @@ Co-author — *EEG-based Motor Imagery BCI Classification*, IEEE (2025)
 
 ## What I'm Looking For
 
-Remote or Bangalore-based **internship with PPO potential** at a product company or startup.
+**Full-time Java/backend role or a paid internship with conversion potential**, anywhere in India, remote included. Graduating in 2027; open to 2027-batch and final-year-friendly roles.
 Backend-heavy roles: APIs, systems, data infrastructure, AI tooling.
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/krishkumar06/) · [GitHub](https://github.com/krisjscott) · krishkumar6566@gmail.com
+[Portfolio](https://krishkumar.up.railway.app/) · [LinkedIn](https://www.linkedin.com/in/krishkumar06/) · [GitHub](https://github.com/krisjscott) · krishkumar6566@gmail.com
