@@ -5,11 +5,11 @@
 Final-year CSE (AI) student at MIT ADT University, Pune. Backend intern at **.tiesverse**. I debug from logs and source, and I build things beyond tutorials.
 
 <!-- CURRENT-PROJECT:START -->
-**Currently working on:** [walletApi](https://github.com/krisjscott/walletApi)
+**Currently working on:** [BaseCampLearning&#45;LSM](https://github.com/krisjscott/BaseCampLearning-LSM)
 
-Latest public push: 29 Oct 2026, 12:03 UTC | [3b7423e](https://github.com/krisjscott/walletApi/commit/3b7423ecaba695a7023378ee3766d91d4296546b)
+Latest public push: 02 Nov 2026, 08:19 UTC | [ceed6e8](https://github.com/krisjscott/BaseCampLearning-LSM/commit/ceed6e825f9f32aa053916640bc9f1b784bb05f0)
 
-Fix token expiration unit&#44; preserve login password whitespace&#44; and respect injected password encoder
+Created UI for admin to add webinar
 <!-- CURRENT-PROJECT:END -->
 
 ---
