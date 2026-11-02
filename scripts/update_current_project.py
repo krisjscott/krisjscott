@@ -1,4 +1,3 @@
-
 import json
 import re
 import sys
@@ -24,24 +23,33 @@ def api(path):
         return json.load(response)
 
 
-def timestamp(event):
-    return datetime.strptime(event["created_at"], "%Y-%m-%dT%H:%M:%SZ")
-
-
-def latest_push():
-    events = []
-    for page in range(1, 4):
-        batch = api(f"/users/{USER}/events/public?per_page=100&page={page}")
-        if not isinstance(batch, list):
-            raise ValueError("Invalid events response")
-        events.extend(batch)
-        if len(batch) < 100:
-            break
-    pushes = [e for e in events if e.get("type") == "PushEvent"
-              and e.get("public") is True
-              and e.get("actor", {}).get("login", "").lower() == USER.lower()
-              and e.get("repo", {}).get("name", "").lower() != PROFILE.lower()]
-    return max(pushes, key=timestamp) if pushes else None
+def latest_pushed():
+    # The public events feed can lag or drop recent pushes for days at a time,
+    # so select the project from the repos API instead: pushed_at advances on
+    # every push to a public repo. Candidates are skipped unless both the repo
+    # and a resolvable HEAD commit check out as public.
+    repos = api(f"/users/{USER}/repos?type=owner&sort=pushed&direction=desc&per_page=20")
+    if not isinstance(repos, list):
+        raise ValueError("Invalid repos response")
+    for repo in repos:
+        name = repo.get("full_name", "")
+        if name.lower() == PROFILE.lower():
+            continue
+        if repo.get("private") is not False:
+            continue  # unauthenticated listing is public-only; verify anyway
+        pushed_at = repo.get("pushed_at")
+        if not pushed_at:
+            continue  # created but never pushed to
+        commits = api(f"/repos/{name}/commits?per_page=1")
+        if not isinstance(commits, list) or not commits:
+            continue  # empty repository; try the next one
+        head = commits[0].get("sha", "")
+        if not re.fullmatch(r"[0-9a-fA-F]{40}", head) or int(head, 16) == 0:
+            continue
+        message = commits[0]["commit"]["message"].splitlines()[0]
+        date = datetime.strptime(pushed_at, "%Y-%m-%dT%H:%M:%SZ")
+        return name, head, message, date
+    return None
 
 
 def safe_text(text):
@@ -57,24 +65,14 @@ def update(path=Path("README.md")):
     if (original.count(START) != 1 or original.count(END) != 1
             or original.index(START) >= original.index(END)):
         raise ValueError("README needs one ordered pair of CURRENT-PROJECT markers")
-    event = latest_push()
-    if event is None:
+    latest = latest_pushed()
+    if latest is None:
         print("No public push found; README unchanged.")
         return
-    repo = event["repo"]["name"]
-    head = event["payload"].get("head", "")
+    repo, head, message, when = latest
     if not re.fullmatch(r"[A-Za-z0-9_.-]+/[A-Za-z0-9_.-]+", repo):
         raise ValueError("Invalid repository name")
-    if not re.fullmatch(r"[0-9a-fA-F]{40}", head) or int(head, 16) == 0:
-        raise ValueError("Push has no usable head commit")
-    metadata = api(f"/repos/{repo}")
-    if metadata.get("private") is not False:
-        raise ValueError("Repository is not public")
-    commit = api(f"/repos/{repo}/commits/{head}")
-    if commit.get("sha", "").lower() != head.lower():
-        raise ValueError("Commit does not match push")
-    message = commit["commit"]["message"].splitlines()[0]
-    date = timestamp(event).strftime("%d %b %Y, %H:%M UTC")
+    date = when.strftime("%d %b %Y, %H:%M UTC")
     block = (f'\n**Currently working on:** '
              f'[{safe_text(repo.split("/", 1)[1])}](https://github.com/{repo})\n\n'
              f'Latest public push: {date} | '
@@ -97,4 +95,3 @@ if __name__ == "__main__":
         print("Update failed; existing README preserved. Check API access and markers.",
               file=sys.stderr)
         sys.exit(1)
-
