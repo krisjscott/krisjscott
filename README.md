@@ -7,9 +7,9 @@ Final-year CSE (AI) student at MIT ADT University, Pune. Backend intern at **.ti
 <!-- CURRENT-PROJECT:START -->
 **Currently working on:** [BaseCampLearning&#45;LSM](https://github.com/krisjscott/BaseCampLearning-LSM)
 
-Latest public push: 02 Nov 2026, 08:19 UTC | [ceed6e8](https://github.com/krisjscott/BaseCampLearning-LSM/commit/ceed6e825f9f32aa053916640bc9f1b784bb05f0)
+Latest public push: 02 Nov 2026, 09:55 UTC | [383204b](https://github.com/krisjscott/BaseCampLearning-LSM/commit/383204b01c3eb38039b645775940295ed8b48c7c)
 
-Created UI for admin to add webinar
+Update Next&#46;js dev route type reference
 <!-- CURRENT-PROJECT:END -->
 
 ---
