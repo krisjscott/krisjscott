@@ -7,9 +7,9 @@ Final-year CSE (AI) student at MIT ADT University, Pune. Backend intern at **.ti
 <!-- CURRENT-PROJECT:START -->
 **Currently working on:** [walletApi](https://github.com/krisjscott/walletApi)
 
-Latest public push: 02 Nov 2026, 15:55 UTC | [55a3017](https://github.com/krisjscott/walletApi/commit/55a3017052492fafed0b376baa4e7a742fb927d4)
+Latest public push: 03 Nov 2026, 02:16 UTC | [dcb0053](https://github.com/krisjscott/walletApi/commit/dcb0053784fd635369b35f8213767f4900028d22)
 
-docs&#58; expand README with architecture&#44; concurrency&#44; and API reference
+docs&#58; update README with new exception handling and optimized pagination
 <!-- CURRENT-PROJECT:END -->
 
 ---
