@@ -5,11 +5,11 @@
 Final-year CSE (AI) student at MIT ADT University, Pune. Backend intern at **.tiesverse**. I debug from logs and source, and I build things beyond tutorials.
 
 <!-- CURRENT-PROJECT:START -->
-**Currently working on:** [BaseCampLearning&#45;LSM](https://github.com/krisjscott/BaseCampLearning-LSM)
+**Currently working on:** [walletApi](https://github.com/krisjscott/walletApi)
 
-Latest public push: 02 Nov 2026, 09:55 UTC | [383204b](https://github.com/krisjscott/BaseCampLearning-LSM/commit/383204b01c3eb38039b645775940295ed8b48c7c)
+Latest public push: 02 Nov 2026, 15:55 UTC | [55a3017](https://github.com/krisjscott/walletApi/commit/55a3017052492fafed0b376baa4e7a742fb927d4)
 
-Update Next&#46;js dev route type reference
+docs&#58; expand README with architecture&#44; concurrency&#44; and API reference
 <!-- CURRENT-PROJECT:END -->
 
 ---
