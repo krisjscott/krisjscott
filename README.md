@@ -5,11 +5,11 @@
 Final-year CSE (AI) student at MIT ADT University, Pune. Backend intern at **.tiesverse**. I debug from logs and source, and I build things beyond tutorials.
 
 <!-- CURRENT-PROJECT:START -->
-**Currently working on:** [walletApi](https://github.com/krisjscott/walletApi)
+**Currently working on:** [abstractive&#45;vs&#45;extractive&#45;summariser](https://github.com/krisjscott/abstractive-vs-extractive-summariser)
 
-Latest public push: 03 Nov 2026, 02:16 UTC | [dcb0053](https://github.com/krisjscott/walletApi/commit/dcb0053784fd635369b35f8213767f4900028d22)
+Latest public push: 04 Nov 2026, 11:08 UTC | [f0cbb1e](https://github.com/krisjscott/abstractive-vs-extractive-summariser/commit/f0cbb1ed4b592c88523ca502dc17fd2d4c72bc2a)
 
-docs&#58; update README with new exception handling and optimized pagination
+Fix image links and update asset notes in README
 <!-- CURRENT-PROJECT:END -->
 
 ---
