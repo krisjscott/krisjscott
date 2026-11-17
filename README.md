@@ -5,11 +5,11 @@
 Final-year CSE (AI) student at MIT ADT University, Pune. Backend intern at **.tiesverse**. I debug from logs and source, and I build things beyond tutorials.
 
 <!-- CURRENT-PROJECT:START -->
-**Currently working on:** [AI&#45;security&#45;scanner](https://github.com/krisjscott/AI-security-scanner)
+**Currently working on:** [Certification&#45;Platform](https://github.com/krisjscott/Certification-Platform)
 
-Latest public push: 09 Nov 2026, 11:10 UTC | [af0f0b6](https://github.com/krisjscott/AI-security-scanner/commit/af0f0b6269d6b4e60e20f2912cca95a8d33969f8)
+Latest public push: 17 Nov 2026, 20:37 UTC | [a072975](https://github.com/krisjscott/Certification-Platform/commit/a072975836406f94b914b61c6e6edd2fd10e95e4)
 
-Create README&#46;md for AI Security Scanner
+Filter admin students and add teacher first sign&#45;in flow
 <!-- CURRENT-PROJECT:END -->
 
 ---
