@@ -7,9 +7,9 @@ Final-year CSE (AI) student at MIT ADT University, Pune. Backend intern at **.ti
 <!-- CURRENT-PROJECT:START -->
 **Currently working on:** [Certification&#45;Platform](https://github.com/krisjscott/Certification-Platform)
 
-Latest public push: 17 Nov 2026, 20:37 UTC | [a072975](https://github.com/krisjscott/Certification-Platform/commit/a072975836406f94b914b61c6e6edd2fd10e95e4)
+Latest public push: 18 Nov 2026, 10:56 UTC | [8e5394a](https://github.com/krisjscott/Certification-Platform/commit/8e5394a87cc13c9b8f8448b6b4def3fa0c153812)
 
-Filter admin students and add teacher first sign&#45;in flow
+Feat&#58; Added HLD for certvault
 <!-- CURRENT-PROJECT:END -->
 
 ---
