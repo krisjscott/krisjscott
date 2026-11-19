@@ -5,11 +5,11 @@
 Final-year CSE (AI) student at MIT ADT University, Pune. Backend intern at **.tiesverse**. I debug from logs and source, and I build things beyond tutorials.
 
 <!-- CURRENT-PROJECT:START -->
-**Currently working on:** [Certification&#45;Platform](https://github.com/krisjscott/Certification-Platform)
+**Currently working on:** [AI&#45;security&#45;scanner](https://github.com/krisjscott/AI-security-scanner)
 
-Latest public push: 18 Nov 2026, 10:56 UTC | [8e5394a](https://github.com/krisjscott/Certification-Platform/commit/8e5394a87cc13c9b8f8448b6b4def3fa0c153812)
+Latest public push: 09 Nov 2026, 11:10 UTC | [af0f0b6](https://github.com/krisjscott/AI-security-scanner/commit/af0f0b6269d6b4e60e20f2912cca95a8d33969f8)
 
-Feat&#58; Added HLD for certvault
+Create README&#46;md for AI Security Scanner
 <!-- CURRENT-PROJECT:END -->
 
 ---
