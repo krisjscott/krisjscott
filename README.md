@@ -5,11 +5,11 @@
 Final-year CSE (AI) student at MIT ADT University, Pune. Backend intern at **.tiesverse**. I debug from logs and source, and I build things beyond tutorials.
 
 <!-- CURRENT-PROJECT:START -->
-**Currently working on:** [AI&#45;security&#45;scanner](https://github.com/krisjscott/AI-security-scanner)
+**Currently working on:** [sensemaking&#45;tools](https://github.com/krisjscott/sensemaking-tools)
 
-Latest public push: 09 Nov 2026, 11:10 UTC | [af0f0b6](https://github.com/krisjscott/AI-security-scanner/commit/af0f0b6269d6b4e60e20f2912cca95a8d33969f8)
+Latest public push: 12 Nov 2026, 23:13 UTC | [37bfc45](https://github.com/krisjscott/sensemaking-tools/commit/37bfc458a86d9251f42f84eefeb855590f2dfd83)
 
-Create README&#46;md for AI Security Scanner
+Fix Gemini 400 INVALID&#95;ARGUMENT FST schema complexity in categorization
 <!-- CURRENT-PROJECT:END -->
 
 ---
