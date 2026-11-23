@@ -5,11 +5,11 @@
 Final-year CSE (AI) student at MIT ADT University, Pune. Backend intern at **.tiesverse**. I debug from logs and source, and I build things beyond tutorials.
 
 <!-- CURRENT-PROJECT:START -->
-**Currently working on:** [sensemaking&#45;tools](https://github.com/krisjscott/sensemaking-tools)
+**Currently working on:** [Semantic&#45;FAQ&#45;Matcher](https://github.com/krisjscott/Semantic-FAQ-Matcher)
 
-Latest public push: 12 Nov 2026, 23:13 UTC | [37bfc45](https://github.com/krisjscott/sensemaking-tools/commit/37bfc458a86d9251f42f84eefeb855590f2dfd83)
+Latest public push: 23 Nov 2026, 18:23 UTC | [5c7f5b1](https://github.com/krisjscott/Semantic-FAQ-Matcher/commit/5c7f5b1d9ebe5c90f656855def0d782ea8ef1865)
 
-Fix Gemini 400 INVALID&#95;ARGUMENT FST schema complexity in categorization
+Point Vercel API rewrite to Render backend
 <!-- CURRENT-PROJECT:END -->
 
 ---
