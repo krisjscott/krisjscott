@@ -5,11 +5,11 @@
 Final-year CSE (AI) student at MIT ADT University, Pune. Backend intern at **.tiesverse**. I debug from logs and source, and I build things beyond tutorials.
 
 <!-- CURRENT-PROJECT:START -->
-**Currently working on:** [Semantic&#45;FAQ&#45;Matcher](https://github.com/krisjscott/Semantic-FAQ-Matcher)
+**Currently working on:** [cirramount&#45;website](https://github.com/krisjscott/cirramount-website)
 
-Latest public push: 23 Nov 2026, 18:23 UTC | [5c7f5b1](https://github.com/krisjscott/Semantic-FAQ-Matcher/commit/5c7f5b1d9ebe5c90f656855def0d782ea8ef1865)
+Latest public push: 25 Nov 2026, 12:12 UTC | [577958c](https://github.com/krisjscott/cirramount-website/commit/577958c2b5c346a84d0b3043f6e8860d6001c528)
 
-Point Vercel API rewrite to Render backend
+Delete CNAME
 <!-- CURRENT-PROJECT:END -->
 
 ---
