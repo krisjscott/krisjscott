@@ -5,11 +5,11 @@
 Final-year CSE (AI) student at MIT ADT University, Pune. Backend intern at **.tiesverse**. I debug from logs and source, and I build things beyond tutorials.
 
 <!-- CURRENT-PROJECT:START -->
-**Currently working on:** [cirramount&#45;website](https://github.com/krisjscott/cirramount-website)
+**Currently working on:** [cirramount](https://github.com/krisjscott/cirramount)
 
-Latest public push: 26 Nov 2026, 07:57 UTC | [c3849de](https://github.com/krisjscott/cirramount-website/commit/c3849de8cad43b12486f304c8d40bc3d57da7687)
+Latest public push: 26 Nov 2026, 17:44 UTC | [8868619](https://github.com/krisjscott/cirramount/commit/8868619a19839379714a29880db482621362403e)
 
-Add Google Search Console verification file
+docs&#58; add project README
 <!-- CURRENT-PROJECT:END -->
 
 ---
