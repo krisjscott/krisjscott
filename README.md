@@ -7,9 +7,9 @@ Final-year CSE (AI) student at MIT ADT University, Pune. Backend intern at **.ti
 <!-- CURRENT-PROJECT:START -->
 **Currently working on:** [cirramount&#45;website](https://github.com/krisjscott/cirramount-website)
 
-Latest public push: 25 Nov 2026, 12:12 UTC | [577958c](https://github.com/krisjscott/cirramount-website/commit/577958c2b5c346a84d0b3043f6e8860d6001c528)
+Latest public push: 26 Nov 2026, 07:57 UTC | [c3849de](https://github.com/krisjscott/cirramount-website/commit/c3849de8cad43b12486f304c8d40bc3d57da7687)
 
-Delete CNAME
+Add Google Search Console verification file
 <!-- CURRENT-PROJECT:END -->
 
 ---
