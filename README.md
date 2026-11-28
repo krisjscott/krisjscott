@@ -7,9 +7,9 @@ Final-year CSE (AI) student at MIT ADT University, Pune. Backend intern at **.ti
 <!-- CURRENT-PROJECT:START -->
 **Currently working on:** [cirramount](https://github.com/krisjscott/cirramount)
 
-Latest public push: 26 Nov 2026, 17:44 UTC | [8868619](https://github.com/krisjscott/cirramount/commit/8868619a19839379714a29880db482621362403e)
+Latest public push: 27 Nov 2026, 19:33 UTC | [f3514cc](https://github.com/krisjscott/cirramount/commit/f3514ccd75d387f683ce1da82a984f06568cb99a)
 
-docs&#58; add project README
+Release CirraMount 0&#46;2&#46;0 for Linux
 <!-- CURRENT-PROJECT:END -->
 
 ---
